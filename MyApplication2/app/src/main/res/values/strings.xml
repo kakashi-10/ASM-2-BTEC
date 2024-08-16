@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="budget_name">Budget Name</string>
+    <string name="budget_type">Budget Type</string>
+    <string name="amount">Amount</string>
+    <string name="update">Update</string>
+</resources>
